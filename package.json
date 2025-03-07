@@ -15,11 +15,11 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "",
-  "author": "",
+  "name": "@minhcode-dev/m_shopmicro",
+  "author": "Minh",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/minhcode-dev/m_shopmicro.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
